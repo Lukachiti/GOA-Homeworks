@@ -1,0 +1,44 @@
+.parent {
+    background-color: aqua;
+    
+    display: flex;
+}
+
+h1 {
+    
+    margin-right: 4%;
+    margin-left: 8%;
+    
+}
+
+nav {
+    
+    margin-right: 8%;
+    margin-left: 11%;
+    width: 50%;
+    display: flex;
+    
+    
+    
+   
+}
+
+a {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0px 5px;
+    text-decoration: none;
+    color: cornflowerblue;
+    
+
+    
+    
+}
+
+a:hover {
+    color: rgb(65, 98, 158);
+}
+
+
+
+
